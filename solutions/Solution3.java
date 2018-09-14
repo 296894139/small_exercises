@@ -1,4 +1,4 @@
-class Solution {
+class Solution3 {
     public int maxArea(int[] height) {
           int max=0;
           int length=height.length;
@@ -13,9 +13,5 @@ class Solution {
           }
           return  max;
     }
-    public static void main(String []arg){
-        Solution s=new Solution();
-        int []height={1,8,6,2,5,4,8,3,7};
-        System.out.println(s.maxArea(height));
-    }
+
 }
