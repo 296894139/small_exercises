@@ -108,14 +108,11 @@ public class Main {
         }
         shunsort(tem_start,place-1);
         shunsort(place+1,tem_end);
-
-
-
     }
 }
 
 
-       /* import java.util.ArrayList;
+ /*       import java.util.ArrayList;
         import java.util.Collections;
         import java.util.Comparator;
         import java.util.HashMap;
@@ -125,7 +122,7 @@ public class Main {
         import java.util.Scanner;
         import java.util.jar.Attributes.Name;
 
-/*public class Main
+public class Main
 {
     public static void main(String[] args)
     {
