@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-class Solution {
+class Solution6 {
 
     public ListNode mergeKLists(ListNode[] lists) {
         if(lists.length==0){
@@ -54,7 +54,7 @@ class Solution {
          return head;
     }
     public static void main(String []args){
-        Solution s=new Solution();
+        Solution6 s=new Solution6();
       /*  ListNode tem1=new ListNode(1);
         tem1.next=new ListNode(4);
         tem1.next.next=new ListNode(5);
