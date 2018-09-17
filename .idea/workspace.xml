@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b454138-55da-47ce-b29f-b807ed533377" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/solutions/Solution.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/solutions/Solution8.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/solutions/Solution.java" afterPath="$PROJECT_DIR$/solutions/Solution7.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,21 +16,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/solutions/Solution.java">
+      <file leaf-file-name="Solution8.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/solutions/Solution8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="713">
-              <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+            <state relative-caret-position="414">
+              <caret line="18" column="57" lean-forward="true" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution6.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solutions/Solution6.java">
+      <file leaf-file-name="Solution7.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/solutions/Solution7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="57" column="10" lean-forward="false" selection-start-line="57" selection-start-column="10" selection-end-line="59" selection-end-column="39" />
+            <state relative-caret-position="608">
+              <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -67,6 +68,7 @@
         <option value="$PROJECT_DIR$/solutions/Solution6.java" />
         <option value="$PROJECT_DIR$/solutions/Bitwise_ORs_of_Subarrays.java" />
         <option value="$PROJECT_DIR$/solutions/Solution.java" />
+        <option value="$PROJECT_DIR$/solutions/Solution8.java" />
       </list>
     </option>
   </component>
@@ -335,7 +337,7 @@
       <workItem from="1537015522175" duration="2664000" />
       <workItem from="1537057346967" duration="3245000" />
       <workItem from="1537060848488" duration="3511000" />
-      <workItem from="1537146568025" duration="834000" />
+      <workItem from="1537146568025" duration="1778000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1536834619763</created>
@@ -355,7 +357,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19977000" />
+    <option name="totallyTimeSpent" value="20921000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
@@ -406,16 +408,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/solutions/Bitwise_ORs_of_Subarrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solutions/Solution6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -830,10 +822,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/Solution.java">
+    <entry file="file://$PROJECT_DIR$/solutions/Solution7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
+        <state relative-caret-position="608">
           <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions/Solution8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="57" lean-forward="true" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
           <folding />
         </state>
       </provider>
