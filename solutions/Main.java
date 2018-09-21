@@ -19,6 +19,7 @@ public class Main {
                   long tem=resultMode(a,b/2,k)*resultMode(a,b-b/2,k);
                   return mod(tem,k);
               }
+              return 0;
     }
     public int mod(long a,int k){
         int result=0;
