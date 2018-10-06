@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b454138-55da-47ce-b29f-b807ed533377" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/solutions/Main13.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/solutions/RandomizedCollection.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/solutions/Main14.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/solutions/Main15.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,34 +16,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="RandomizedCollection.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solutions/RandomizedCollection.java">
+      <file leaf-file-name="Main15.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/solutions/Main15.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="35" column="9" lean-forward="false" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main13.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/solutions/Main13.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="42" column="28" lean-forward="true" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+            <state relative-caret-position="235">
+              <caret line="19" column="47" lean-forward="true" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main12.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solutions/Main12.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -68,7 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/solutions/Solution1.java" />
         <option value="$PROJECT_DIR$/solutions/Solution4.java" />
         <option value="$PROJECT_DIR$/solutions/Grades.java" />
         <option value="$PROJECT_DIR$/solutions/GradeSort.java" />
@@ -118,6 +97,8 @@
         <option value="$PROJECT_DIR$/solutions/leetcode381.java" />
         <option value="$PROJECT_DIR$/solutions/RandomizedCollection.java" />
         <option value="$PROJECT_DIR$/solutions/Main13.java" />
+        <option value="$PROJECT_DIR$/solutions/Main14.java" />
+        <option value="$PROJECT_DIR$/solutions/Main15.java" />
       </list>
     </option>
   </component>
@@ -193,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main13">
+  <component name="RunManager" selected="Application.Main15">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -201,9 +182,9 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="Main13" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -215,9 +196,23 @@
       <module name="small_exercises" />
       <envs />
     </configuration>
-    <configuration name="Main13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Main13" />
+      <option name="MAIN_CLASS_NAME" value="Main14" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="small_exercises" />
+      <envs />
+    </configuration>
+    <configuration name="Main15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Main15" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -255,20 +250,6 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
-      <envs />
-    </configuration>
-    <configuration name="leetcode502" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="leetcode502" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="small_exercises" />
       <envs />
     </configuration>
     <configuration name="leetcode83" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -346,19 +327,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="Application.leetcode502" />
-      <item index="2" class="java.lang.String" itemvalue="Application.leetcode83" />
-      <item index="3" class="java.lang.String" itemvalue="Application.RandomizedCollection" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main13" />
+      <item index="0" class="java.lang.String" itemvalue="Application.leetcode83" />
+      <item index="1" class="java.lang.String" itemvalue="Application.RandomizedCollection" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main13" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main14" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main15" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main13" />
-        <item index="1" class="java.lang.String" itemvalue="Application.RandomizedCollection" />
-        <item index="2" class="java.lang.String" itemvalue="Application.leetcode83" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="4" class="java.lang.String" itemvalue="Application.leetcode502" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main15" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main14" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main13" />
+        <item index="3" class="java.lang.String" itemvalue="Application.RandomizedCollection" />
+        <item index="4" class="java.lang.String" itemvalue="Application.leetcode83" />
       </list>
     </recent_temporary>
   </component>
@@ -417,7 +398,7 @@
       <workItem from="1538459577535" duration="1840000" />
       <workItem from="1538525496366" duration="3902000" />
       <workItem from="1538704144690" duration="1954000" />
-      <workItem from="1538787587560" duration="4061000" />
+      <workItem from="1538787587560" duration="7134000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1536834619763</created>
@@ -437,7 +418,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92749000" />
+    <option name="totallyTimeSpent" value="95822000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
@@ -487,20 +468,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/solutions/Bitwise_ORs_of_Subarrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/Solution6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="57" column="10" lean-forward="false" selection-start-line="57" selection-start-column="10" selection-end-line="59" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solutions/Solution7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="713">
@@ -844,6 +811,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="42" column="28" lean-forward="true" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions/Main14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions/Main15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="19" column="47" lean-forward="true" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
