@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b454138-55da-47ce-b29f-b807ed533377" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/solutions/leetcode123.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/solutions/leetcode698.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/solutions/leetcode728.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/solutions/leetcode539.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/small_exercises/leetcode452.class" afterPath="$PROJECT_DIR$/out/production/small_exercises/leetcode452.class" />
+      <change beforePath="$PROJECT_DIR$/solutions/leetcode728.java" afterPath="$PROJECT_DIR$/solutions/leetcode728.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,14 +16,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="leetcode728.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="leetcode728.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solutions/leetcode728.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            <state relative-caret-position="575">
+              <caret line="25" column="12" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#235#244#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leetcode539.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/solutions/leetcode539.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="9" column="36" lean-forward="false" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#230#239#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -100,8 +111,8 @@
         <option value="$PROJECT_DIR$/solutions/leetcode452.java" />
         <option value="$PROJECT_DIR$/solutions/leetcode123.java" />
         <option value="$PROJECT_DIR$/solutions/leetcode698.java" />
-        <option value="$PROJECT_DIR$/solutions/leetcode539.java" />
         <option value="$PROJECT_DIR$/solutions/leetcode728.java" />
+        <option value="$PROJECT_DIR$/solutions/leetcode539.java" />
       </list>
     </option>
   </component>
@@ -111,7 +122,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-16" />
     <option name="y" value="95" />
     <option name="width" value="833" />
@@ -425,7 +436,7 @@
       <workItem from="1544525805948" duration="54000" />
       <workItem from="1547120962061" duration="735000" />
       <workItem from="1547428617760" duration="30000" />
-      <workItem from="1551013412952" duration="302000" />
+      <workItem from="1551013412952" duration="1426000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1536834619763</created>
@@ -445,10 +456,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138307000" />
+    <option name="totallyTimeSpent" value="139431000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -852,14 +863,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/leetcode539.java" />
     <entry file="file://$PROJECT_DIR$/solutions/leetcode728.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        <state relative-caret-position="575">
+          <caret line="25" column="12" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#235#244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions/leetcode539.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="9" column="36" lean-forward="false" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#230#239#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -22,6 +22,8 @@ public class leetcode728 {
     public boolean tem(int e){
         String str=e+"";
         for(int i=0;i<str.length();i++){
+            int a=-1;
+            
             int index=Integer.parseInt(str.charAt(i)+"");
             if(index==0){
                 return false;
